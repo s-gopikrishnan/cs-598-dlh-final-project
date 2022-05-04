@@ -5,8 +5,8 @@
 
 1. Clone the code to local.   
 ```
-https://github.com/tanlab/ConvolutionMedicalNer.git
-cd ConvolutionMedicalNer
+https://github.com/s-gopikrishnan/cs-598-dlh-final-project
+cd cs-598-dlh-final-project
 ```
 2. Run MIMIC-Extract Pipeline as explained in https://github.com/MLforHealth/MIMIC_Extract.   
 
