@@ -36,7 +36,11 @@ cd ConvolutionMedicalNer
 
 You can use the `10-Report-Metrics.ipynb` file to print the metrics of the models
 
-`11_test_model.ipynb` - can be used to load a particular model (hdf5 file) and test it against the data
+`11_Timeseries_Results.ipynb` - is used for loading and reporting the results of TimeSeries baseline model. It compares the best models result and the generated files.
+
+`12_Multimodal_Results.ipynb` - is used for loading and reporting the results of MultiModal baseline model. It compares the best models result and the generated files.
+
+`13_Proposed_Results.ipynb` - is used for loading and reporting the results of Proposed model. It compares the best models result and the generated files.
 
 ## References
 
