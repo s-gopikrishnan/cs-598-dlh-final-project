@@ -5,9 +5,16 @@
 
 1. Clone the code to local.   
 ```
-https://github.com/tanlab/ConvolutionMedicalNer.git
-cd ConvolutionMedicalNer
+https://github.com/s-gopikrishnan/cs-598-dlh-final-project
+cd cs-598-dlh-final-project
 ```
+
+If you are using Anaconda, you can create a new environment with all the necessary packages and version using below command
+
+```
+conda env create -f environment.yml
+```
+
 2. Run MIMIC-Extract Pipeline as explained in https://github.com/MLforHealth/MIMIC_Extract.   
 
 3. Copy the output file of MIMIC-Extract Pipeline named `all_hourly_data.h5` to `data` folder.
