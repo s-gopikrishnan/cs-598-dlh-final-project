@@ -15,7 +15,7 @@ If you are using Anaconda, you can create a new environment with all the necessa
 conda env create -f environment.yml
 ```
 
-2. Run MIMIC-Extract Pipeline as explained in https://github.com/MLforHealth/MIMIC_Extract.   
+2. Run MIMIC-Extract Pipeline as explained in https://github.com/MLforHealth/MIMIC_Extract or download the preprocessed extract file
 
 3. Copy the output file of MIMIC-Extract Pipeline named `all_hourly_data.h5` to `data` folder.
 
