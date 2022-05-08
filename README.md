@@ -77,7 +77,7 @@ Run `09-Proposed-Model.ipynb` to run proposed model to predict 4 different clini
 
 ## Experimentations / Ablations
 
-Run `05_1-Ablation_Represent-Entities-With-Glove-Embedding.ipynb` to convert medical entities into word representations.
+Run `05_1-Ablation_Represent-Entities-With-Glove-Embedding.ipynb` to convert medical entities into word representations with Glove embedding.
 
 Run `06_1-Ablation-Create-Timeseries-Data-Glove.ipynb` to prepare the timeseries data for feeding it to GloVe model
 
