@@ -90,11 +90,3 @@ We were able to verify the claims mentioned in the paper. Based on the reproduce
 
 ![Test Data info](./report/Table_2_Proposed_Small.jpg)
 
-MIMIC-Extract implementation: https://github.com/MLforHealth/MIMIC_Extract
-
-med7 implementation: https://github.com/kormilitzin/med7
-
-Download Pre-trained Word2Vec & FastText embeddings: https://github.com/kexinhuang12345/clinicalBERT
-
-Preprocessing Script: https://github.com/kaggarwal/ClinicalNotesICU
-
