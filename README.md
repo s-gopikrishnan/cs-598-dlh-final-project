@@ -85,7 +85,8 @@ Run `09_1-Ablation-Proposed-Model-Glove.ipynb` to run the proposed model with Gl
 
 ## Results
 
-We were able to verify the claims mentioned in the paper. 
+We were able to verify the claims mentioned in the paper. Based on the reproduced results listed in the below table, we can see the proposed model improves the AUPRC significantly when compared to the baseline models. On the average, we can see improvement of 6.7% over the timeseries models and 1.6% over the multimodal baselines. Overall, we agree with the author's claim.
+
 
 ![Test Data info](./report/Table_2_Proposed_Small.jpg)
 
