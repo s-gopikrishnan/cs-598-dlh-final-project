@@ -1,6 +1,8 @@
 # Final Project - Reproducing Paper 211 - Improving clinical outcome predictions using convolution over medical entities with multimodal learning
 
-This repository is an implementation of [Improving clinical outcome predictions using convolution over medical entities with multimodal learning](https://doi.org/10.1016/j.artmed.2021.102112). 
+This repository is part of the final project course work for CS-598 Deep Learning for Healthcare at University of Illinois, Urbana Champaign. 
+
+It is an implementation of [Improving clinical outcome predictions using convolution over medical entities with multimodal learning](https://doi.org/10.1016/j.artmed.2021.102112). 
 
 ## Original Paper details
 
@@ -82,6 +84,10 @@ Run `06_1-Ablation-Create-Timeseries-Data-Glove.ipynb` to prepare the timeseries
 Run `09_1-Ablation-Proposed-Model-Glove.ipynb` to run the proposed model with GloVe based embedding
 
 ## Results
+
+We were able to verify the claims mentioned in the paper. 
+
+![Test Data info](./report/Table_2_Proposed_Small.jpg)
 
 MIMIC-Extract implementation: https://github.com/MLforHealth/MIMIC_Extract
 
